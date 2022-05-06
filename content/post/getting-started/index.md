@@ -1,10 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Добро пожаловать в мой блог. Поговорим о прошедшей неделе.
+subtitle: Всем привет) Хотите узнать как прошла моя прошлая неделя? 
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
+summary: 
 # Link this post with a project
 projects: []
 
@@ -30,24 +29,21 @@ image:
 
 authors:
   - admin
-  - 吳恩達
 
 tags:
   - Academic
-  - 开源
 
 categories:
   - Demo
-  - 教程
 ---
 
 ## Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+1. Ничего необычного. Все так же учебные занятия и почти сутки, потраченные на лаборатоные работы и проект. Ела вкусно. Спала сладко. На этом все. 
+2. Остальные дни ничем не отличались от друг от друга.
+3. Да, это грустно, но я не грущу
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+
 
 ## Get Started
 
